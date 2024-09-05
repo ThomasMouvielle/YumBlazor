@@ -1,0 +1,10 @@
+
+.idea/
+
+bin/
+
+obj/
+
+Folder.DotSettings.user
+
+appsettings.json
